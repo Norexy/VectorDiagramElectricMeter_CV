@@ -16,5 +16,5 @@
 
 
 ## Author
-
+Для резюме
 - [@Norexy](https://github.com/Norexy)
